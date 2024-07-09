@@ -25,8 +25,8 @@ This repository contains two separate multithreaded programs for matrix multipli
 
 1. **Open WSL and Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/MatrixMultiplicationSimulator.git
-    cd MatrixMultiplicationSimulator/C
+    git clone https://github.com/PramudithaM/Matrix-Multiplication.git
+    cd Matrix-Multiplication/C
     ```
 
 2. **Install GCC (if not already installed)**:
@@ -49,8 +49,8 @@ This repository contains two separate multithreaded programs for matrix multipli
 
 1. **Open WSL and Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/MatrixMultiplicationSimulator.git
-    cd MatrixMultiplicationSimulator/Java
+    git clone https://github.com/PramudithaM/Matrix-Multiplication.git
+    cd Matrix-Multiplication/Java
     ```
 
 2. **Install Java (if not already installed)**:
@@ -68,6 +68,3 @@ This repository contains two separate multithreaded programs for matrix multipli
     ```sh
     java MatrixMultiplication
     ```
-
-## Repository Structure
-
